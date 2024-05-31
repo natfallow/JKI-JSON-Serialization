@@ -64,6 +64,7 @@
 				<Item Name="Test Serialize Variants.vi" Type="VI" URL="../../test/Test Serialize Variants.vi"/>
 				<Item Name="Test Serialize.vi" Type="VI" URL="../../test/Test Serialize.vi"/>
 				<Item Name="Test Serialize Paths.vi" Type="VI" URL="../../test/Test Serialize Paths.vi"/>
+				<Item Name="Test Serialize Maps.vi" Type="VI" URL="../../test/Test Serialize Maps.vi"/>
 			</Item>
 			<Item Name="RoundTrip" Type="Folder">
 				<Item Name="Test Roundtrip Serialize Waveforms.vi" Type="VI" URL="../../test/Test Roundtrip Serialize Waveforms.vi"/>
@@ -72,6 +73,7 @@
 				<Item Name="Test RoundTrip Serialization.vi" Type="VI" URL="../../test/Test RoundTrip Serialization.vi"/>
 				<Item Name="Test RoundTrip 2D Empty Array.vi" Type="VI" URL="../../test/Test RoundTrip 2D Empty Array.vi"/>
 				<Item Name="Test RoundTrip Path.vi" Type="VI" URL="../../test/Test RoundTrip Path.vi"/>
+				<Item Name="Test Roundtrip Map.vi" Type="VI" URL="../../test/Test Roundtrip Map.vi"/>
 			</Item>
 			<Item Name="GitHub Issues" Type="Folder">
 				<Item Name="Test GitHub Issues.vi" Type="VI" URL="../../test/Test GitHub Issues.vi"/>
@@ -93,9 +95,6 @@
 		<Item Name="run_tests.vi" Type="VI" URL="../../run_tests.vi"/>
 		<Item Name="JSON Serialization.vipb" Type="Document" URL="../JSON Serialization.vipb"/>
 		<Item Name="JSON Serialization.vipc" Type="Document" URL="../JSON Serialization.vipc"/>
-		<Item Name="Package Dependencies" Type="IIO Ladder Diagram">
-			<Property Name="NI.SortType" Type="Int">0</Property>
-		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="openg_variant.lvlib" Type="Library" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/openg_variant.lvlib"/>
